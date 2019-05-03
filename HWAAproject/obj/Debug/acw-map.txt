@@ -1,0 +1,4 @@
+HWAAproject.MainActivity, HWAAproject;md5768ea02e6338f6ddb6c66eff4e75adb5.MainActivity
+HWAAproject.MainActivity, HWAAproject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5768ea02e6338f6ddb6c66eff4e75adb5.MainActivity
+HWAAproject.MainActivity;md5768ea02e6338f6ddb6c66eff4e75adb5.MainActivity
+hwaaproject.MainActivity;md5768ea02e6338f6ddb6c66eff4e75adb5.MainActivity

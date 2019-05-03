@@ -1,0 +1,13 @@
+c:\users\855309.corpaa\source\repos\HWAAproject\HWAAproject\bin\Debug\HWAAproject.dll
+c:\users\855309.corpaa\source\repos\HWAAproject\HWAAproject\bin\Debug\HWAAproject.pdb
+c:\users\855309.corpaa\source\repos\HWAAproject\HWAAproject\bin\Debug\HWAAproject.HWAAproject.apk
+c:\users\855309.corpaa\source\repos\HWAAproject\HWAAproject\bin\Debug\HWAAproject.HWAAproject-Signed.apk
+c:\users\855309.corpaa\source\repos\HWAAproject\HWAAproject\obj\Debug\HWAAproject.csprojResolveAssemblyReference.cache
+c:\users\855309.corpaa\source\repos\HWAAproject\HWAAproject\obj\Debug\HWAAproject.csproj.CoreCompileInputs.cache
+c:\users\855309.corpaa\source\repos\HWAAproject\HWAAproject\obj\Debug\HWAAproject.dll
+c:\users\855309.corpaa\source\repos\HWAAproject\HWAAproject\obj\Debug\HWAAproject.pdb
+c:\users\855309.corpaa\source\repos\HWAAproject\HWAAproject\obj\Debug\android\bin\HWAAproject.HWAAproject.apk
+c:\users\855309.corpaa\source\repos\HWAAproject\HWAAproject\obj\Debug\res\layout\main.xml
+c:\users\855309.corpaa\source\repos\HWAAproject\HWAAproject\obj\Debug\res\values\strings.xml
+c:\users\855309.corpaa\source\repos\HWAAproject\HWAAproject\obj\Debug\R.cs.flag
+c:\users\855309.corpaa\source\repos\HWAAproject\HWAAproject\obj\Debug\uploadflags.txt
